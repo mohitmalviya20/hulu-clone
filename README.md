@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+the link of the project will be (https://awesome-wescoff-0dd78d.netlify.app/)
 
 ## Available Scripts
 
